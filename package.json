@@ -1,0 +1,23 @@
+{
+  "name": "point-plane",
+  "version": "0.0.0",
+  "description": "Determines if given point is above, on or below plane made by 3 other given points.",
+  "main": "pointPlane.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brandonkorf/pointPlane.git"
+  },
+  "keywords": [
+    "point",
+    "plane",
+    "orientation"
+  ],
+  "author": "Brandon Korf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonkorf/pointPlane/issues"
+  }
+}
